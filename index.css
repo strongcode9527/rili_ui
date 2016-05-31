@@ -1,0 +1,54 @@
+.cell{
+	border:40px;
+	height:40px;
+	background:#FFE4B5;
+	border-radius:5px;
+	float:left;
+	width:40px;
+	cursor:pointer;
+	text-align:center;
+	line-height:40px;
+}
+body{
+	margin:0;
+}
+.hang{
+	width:280px;
+	height:40px;
+}
+.header_hang{
+	width:280px;
+	height:40px;
+}
+.header_cell{
+	border:40px;
+	height:40px;
+	background:#FFE4B5;
+	border-radius:5px;
+	float:left;
+	width:40px;
+	cursor:pointer;
+	text-align:center;
+	line-height:40px;
+}
+.all{
+	margin:30px auto;
+	width:280px;
+}
+.right{
+float:right;
+	cursor:pointer;
+
+}
+.left{
+	float:left;
+	cursor:pointer;
+}
+
+.header{
+	position:relative;
+	height:35px;
+	line-height:35px;
+	background:#FF4040;
+	color:white;
+}
